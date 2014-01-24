@@ -35,6 +35,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Mining pools
 
+- http://hashdogs.org/
 - http://doge.nonstopmine.com
 - https://doge.rapidhash.net
 - http://doge.hashfaster.com
@@ -62,7 +63,6 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - https://pool.pm/
 - http://pool.dogecoin.sg/
 - http://dogeme.com/
-- http://hashdogs.org/
 - http://doge.cryptominer.co/
 - http://teamdoge.com/
 - https://doge.hashpersec.com/
